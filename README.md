@@ -1,34 +1,30 @@
-# Brent Garber
+Brent Garber — Senior Backend & Cloud Engineer ☁️⚙️🔐
 
-Senior Backend and Cloud Engineer • Platform Engineering • AWS/DevOps/Security  
-New York, United States
+I design and operate highly available, fault-tolerant platforms on AWS. My focus: production-grade IaC, secure-by-default CI/CD, and backend services that scale. I blend DevOps and security to boost performance and developer velocity, and I enjoy mentoring engineers to uplevel teams.
 
-Email: bgarber42@gmail.com • Phone: 202-823-7658
+Core strengths
+- AWS (EKS, Lambda, RDS) • Terraform • Docker • GitHub Actions
+- Backend: Python, SQL • PostgreSQL • Elasticsearch
+- DevOps/CI/CD • GitOps • Platform Engineering
+- Security: Platform Security • Secure SDLC • Data Encryption
 
-Hi, I’m Brent — I design, build, and operate highly available, fault-tolerant platforms on AWS. I specialize in integrating modern DevOps (Terraform, CI/CD, Docker) and security-by-design practices to improve performance, reliability, and developer velocity. I’m a hands-on engineer and mentor who ships robust, scalable systems.
+Recent impact 🚀
+- Increased deployment reliability and modularity by defining platform-wide DevOps standards
+- Slashed deployment times via containerization (Docker) and GitOps tooling
+- Achieved 99.9% uptime on backend services; instrumented code to catch performance bottlenecks early
+- Standardized Infrastructure as Code (Terraform) to automate platform provisioning end-to-end
+- Reduced build times with new CI/CD architecture; mentored teams to adopt best practices
+- Improved threat detection and reduced incidents; overhauled incident response for resilience
+- Boosted team efficiency by 20% through platform automation and improved dev standards
 
-## Core strengths
-- Cloud architecture (AWS) and platform engineering
-- Backend development (Python, SQL)
-- DevOps/CI/CD enablement and automation
-- Observability, performance, and reliability at scale
-- Security-first engineering (secure SDLC, encryption, platform security)
+Previously at 🧭
+- DeepSeas (Platform Specialist, Back End Engineer)
+- Booz Allen Hamilton (Lead Technologist, Back End Engineer, Staff Engineer)
+- HRsmart (Software Architect)
 
-## Toolbox
-- AWS: EKS, Lambda, RDS
-- IaC/Automation: Terraform, GitHub Actions
-- Containers: Docker, GitOps practices
-- Data: PostgreSQL, Elasticsearch
-- Languages: Python, SQL
+Clearances 🔒
+- Public Trust — U.S. Department of the Treasury (adjudicated, formerly active)
+- Secret — U.S. Military Contract (adjudicated, formerly active)
 
-## Security and clearances
-- Platform Security, Secure SDLC, Data Encryption
-- Public Trust (U.S. Department of the Treasury) — adjudicated, formerly active
-- Secret (U.S. Military contract) — adjudicated, formerly active
-
-## Impact highlights
-- Defined platform-wide DevOps standards and secure-by-default infrastructure, increasing deployment reliability and modularity (DeepSeas, 2023–2025)
-- Cut deployment times by introducing Docker and GitOps tooling; authored playbooks and an internal knowledge base for maintainability (DeepSeas)
-- Achieved 99.9% uptime for backend services; instrumented and resolved performance bottlenecks via automated monitoring (Booz Allen Hamilton, 2022)
-- Standardized Infrastructure as Code (Terraform), automating provisioning and management across platforms (Booz Allen Hamilton)
-- Built event-driven data pipelines to accelerate secure, automated processing
+Let’s connect 📫 me@bgarber.work • New York, USA
+Open to senior Backend, Cloud, Platform, and DevOps roles.
