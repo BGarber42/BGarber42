@@ -1,45 +1,34 @@
-# Brent Garber — Senior Backend & Cloud Engineer ☁️⚙️🔐
+# Brent Garber
+**Senior Backend & Cloud Engineer** ☁️⚙️
 
-I design and operate highly available, fault-tolerant platforms on AWS. My focus: production-grade IaC, secure-by-default CI/CD, and backend services that scale. I blend DevOps and security to boost performance and developer velocity, and I enjoy mentoring engineers to uplevel teams.
+I build scalable, secure-by-default platforms on AWS. My focus is engineering high-availability systems, automating through IaC, and optimizing developer velocity.
 
----
-
-## 🔧 Core Strengths
-- **AWS** (EC2, Lambda, RDS, S3, VPC, IAM) • Terraform • Docker • GitHub Actions  
-- **Backend:** Python, SQL • PostgreSQL • Elasticsearch  
-- **DevOps:** CI/CD • GitOps • Platform Engineering  
-- **Security:** Platform Security • Secure SDLC • Data Encryption  
+[**View my oss projects at @TartarusCode**](https://github.com/TartarusCode)
 
 ---
 
-## 🚀 Recent Impact
-- Increased deployment reliability and modularity by defining platform-wide DevOps standards  
-- Slashed deployment times via containerization (Docker) and GitOps tooling  
-- Achieved 99.9% uptime on backend services; instrumented code to catch performance bottlenecks early  
-- Standardized Infrastructure as Code (Terraform) to automate platform provisioning end-to-end  
-- Reduced build times with new CI/CD architecture; mentored teams to adopt best practices  
-- Improved threat detection and reduced incidents; overhauled incident response for resilience  
-- Boosted team efficiency by 20% through platform automation and improved dev standards  
+### 🔧 Tech Stack
+*   **Infrastructure:** AWS (Compute, Serverless, Networking), Terraform, Docker.
+*   **Engineering:** Python, SQL (PostgreSQL), Elasticsearch, CI/CD, GitOps.
+*   **Security:** Secure SDLC, Platform Security, Data Encryption.
+
+### 🚀 Key Impact
+*   **Reliability:** Achieved 99.9% uptime and streamlined incident response.
+*   **Automation:** Standardized IaC (Terraform) and containerization to accelerate deployments.
+*   **Velocity:** Optimized CI/CD pipelines, reducing build times and improving team efficiency by 20%.
+*   **Mentorship:** Led teams in adopting defensive coding and platform engineering best practices.
+
+### 🧭 Professional History
+*   **DeepSeas:** Platform Specialist / Back End Engineer
+*   **Booz Allen Hamilton:** Lead Technologist / Staff Engineer
+*   **HRsmart:** Software Architect
 
 ---
 
-## 🧭 Experience
-- **DeepSeas** — Platform Specialist / Back End Engineer  
-- **Booz Allen Hamilton** — Lead Technologist / Back End Engineer / Staff Engineer  
-- **HRsmart** — Software Architect  
+*Verified Public Trust & Secret clearances (adjudicated).*
+
+📫 **Connect:** [me@bgarber.work](mailto:me@bgarber.work) | New York, USA  
+*Open to Senior Backend, Cloud, Platform, and DevOps opportunities.*
 
 ---
-
-## 🔒 Clearances
-- Public Trust — U.S. Department of the Treasury (adjudicated, formerly active)  
-- Secret — U.S. Military Contract (adjudicated, formerly active)  
-
----
-
-## 🌱 Outside of Work
-I’m usually exploring new infra tools or automating random things at home. Outside tech, I’m into gardening, scuba diving, and experimenting in the kitchen.  
-
----
-
-📫 **Let’s connect:** me@bgarber.work • New York, USA  
-*Open to senior Backend, Cloud, Platform, and DevOps roles.*
+*Outside tech: Gardening, scuba diving, and culinary experiments.*
